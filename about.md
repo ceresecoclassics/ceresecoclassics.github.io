@@ -34,7 +34,7 @@ nav-menu: true
 					<li>Bridge the gap between scholarly communities in classics and environmental humanities</li>
 					<li>Develop theory and method for approaching environmental questions (broadly defined) in classics</li>
 				</ul>
-				To achieve these goals, we hold a monthly reading and discussion group to explore approaches used in the environmental humanities. For more information, visit <a href="http://localhost:4000/reading_group.html">the reading group page</a>.</p>
+				To achieve these goals, we hold a monthly reading and discussion group to explore approaches used in the environmental humanities. For more information, visit <a href="https://ceresecoclassics.github.io/reading_group.html">the reading group page</a>.</p>
 			</div>
 		</div>
 	</section>
