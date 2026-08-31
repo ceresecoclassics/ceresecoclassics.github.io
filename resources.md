@@ -19,7 +19,7 @@ nav-menu: true
 <section>
 	<hr class="major" />
 		<div class="content">
-			<h2><a href="https://docs.google.com/document/d/1ue4gPLPMdSsaDLJPeDvID9G8wnZVaz1SPuVp7ipIMjs/edit?usp=sharing">Annotated Bibliography</a></h2>
+			<h2><a href="https://docs.google.com/document/d/1ue4gPLPMdSsaDLJPeDvID9G8wnZVaz1SPuVp7ipIMjs/edit?usp=sharing" target="_blank">Annotated Bibliography</a></h2>
 			<p>The annotated bibliography contains a chronological list of previous readings from the reading group along with short summaries of their content. It will be updated by the archivist after our meetings each month.</p>
 		<d/>
 	<hr class="major" />
