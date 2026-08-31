@@ -14,7 +14,7 @@ show_tile: false
 	</div>
 	<div class="4u 12u$(medium)">
 		<ul class="actions">
-			<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeO6vFWrcsI8v_KPGm_Rdzv5bNvBjYalaTT45uBCV6-uTSqAg/viewform?usp=sharing&ouid=114257537123240996432" class="button special big">Join the CERES mailing list</a></li>
+			<li><a href="https://docs.google.com/forms/d/e/1FAIpQLSeO6vFWrcsI8v_KPGm_Rdzv5bNvBjYalaTT45uBCV6-uTSqAg/viewform?usp=sharing&ouid=114257537123240996432" class="button special big" target="_blank">Join the CERES mailing list</a></li>
 		</ul>
 	</div>
 <d/>
