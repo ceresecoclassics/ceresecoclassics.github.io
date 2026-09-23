@@ -14,8 +14,8 @@ nav-menu: true
 	<div class="inner">
 
 <!-- Content -->
-<p>All are welcome to join our monthly reading group in which we discuss environmental humanities scholarship. To receive the Zoom link for the reading group, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeO6vFWrcsI8v_KPGm_Rdzv5bNvBjYalaTT45uBCV6-uTSqAg/viewform?usp=sharing&ouid=114257537123240996432" target="_blank">please join our mailing list</a>. The readings are available in the <a href="https://drive.google.com/drive/folders/1V3BnsB81EA33zt6Qb9EqHDFHURHCzjLq?usp=drive_link" target="_blank">“Current Meeting” folder</a> in the CERES GoogleDrive. Readings will only be made available for a limited time.</p>
-<p>For each meeting, we create a document to house bibliographic information, major discussion questions, meeting minutes, and general feedback. Members are encouraged to contribute to this document prior to the meeting with 1–2 discussion questions about the assigned reading to facilitate discussion. We also encourage members to contribute to the note-taking process during the meeting to assist in thorough record keeping for posterity.</p>
+<p>All are welcome to join our monthly reading group in which we discuss environmental humanities scholarship. To receive the Zoom link for the reading group and access to our meeting notes, <a href="https://docs.google.com/forms/d/e/1FAIpQLSeO6vFWrcsI8v_KPGm_Rdzv5bNvBjYalaTT45uBCV6-uTSqAg/viewform?usp=sharing&ouid=114257537123240996432" target="_blank">please join our mailing list</a>.
+<p>For each meeting, we create a document to house bibliographic information, major discussion questions, meeting minutes, and general feedback which is shared out to our mailing list. Members are encouraged to contribute to this document prior to the meeting with 1–2 discussion questions about the assigned reading to facilitate discussion. We also encourage members to contribute to the note-taking process during the meeting to assist in thorough record keeping for posterity.</p>
 <p>All notes from previous meetings are kept in the <a href="https://drive.google.com/drive/folders/1ggw0lMWB_FRACiZs3_O4DHz1l5dq3V0N?usp=drive_link" target="_blank">“Meeting Notes Archive” folder</a> in the GoogleDrive.
 </p>
 <p>
@@ -23,13 +23,14 @@ nav-menu: true
 <section>
 	<hr class="major" />
 		<div class="content">
-			<h2>Next Meeting: Saturday, September 12, 2026</h2>
-				<p>The theme of September’s meeting will be “Air, Wind, and Clouds,” and we will discuss the following readings:
+			<h2>Next Meeting: Saturday, October 10, 2026</h2>
+				<p>The theme of Octobers’s meeting will be “Time and Seasons,” and we will discuss the following readings:
 				<p><ul>
-					<li>Hepach, Maximilian, Ryan Bishop, J. R. Carpenter, Jussi Parikka, & Birgit Schneider. (2024). “Wind Humanities: An Elemental Media Approach.” Media and Environment, 6.2. https://doi.org/10.1525/001c.127444.</li>
-					<li>Ingold, Tim. (2011). “Earth, Sky, Wind and Weather." Being Alive: Essays on Movement, Knowledge and Description. London: Routledge. 143-155.</li>
+					<li>Harmansah, O. (2020). “Deep Time and Landscape History: How Can Historical Particularity Be Translated?” Timescales: Thinking Across Ecological Temporalities. P. E. Kim, C. Fornoff, and B. Wiggins (eds). University of Minnesota Press. 39-54.</li>
+					<li>Ialenti, V.F. (2014) “Adjudicating Deep Time: Revisiting the United States’ High-Level Nuclear Waste Repository Project at Yucca Mountain”, Science & Technology Studies, 27(2), pp. 27–48. doi:10.23987/sts.55323.</li>
 				</ul>
 				</p>
+				<p>If you are unable to access any of the articles through your institution or local library, please contact us and we will help to locate a copy for you.</p>
 	<hr class="major" />
 		<div class="content">
 			<h2>Themes for Future Meetings</h2>
