@@ -23,25 +23,18 @@ nav-menu: true
 <section>
 	<hr class="major" />
 		<div class="content">
-			<h2>Next Meeting: Saturday, October 10, 2026</h2>
-				<p>The theme of Octobers’s meeting will be “Time and Seasons,” and we will discuss the following readings:
+			<h2>Next Meeting: Saturday, December 12, 2026</h2>
+				<p>The theme of December’s meeting will be “Waste Studies,” and we will discuss the following readings:
 				<p><ul>
-					<li>Harmansah, O. (2020). “Deep Time and Landscape History: How Can Historical Particularity Be Translated?” Timescales: Thinking Across Ecological Temporalities. P. E. Kim, C. Fornoff, and B. Wiggins (eds). University of Minnesota Press. 39-54.</li>
-					<li>Ialenti, V.F. (2014) “Adjudicating Deep Time: Revisiting the United States’ High-Level Nuclear Waste Repository Project at Yucca Mountain”, Science & Technology Studies, 27(2), pp. 27–48. doi:10.23987/sts.55323.</li>
+					<li>Gille, Zsuzsa & Josh Lepawsky. 2021. “Introduction: Waste Studies as a Field”. The Routledge Handbook of Waste Studies, eds. Zsuzsa Gille & Josh Lepawsky. Routledge. 3-19.</li>
+					<li>Morrison, Susan Signe. 2021. “Waste”. The Cambridge Companion to Environmental Humanities, eds. Jeffrey Jermone Cohen & Stephanie Foote. Cambridge University Press. 229-242.</li>
 				</ul>
 				</p>
 				<p>If you are unable to access any of the articles through your institution or local library, please contact us and we will help to locate a copy for you.</p>
 	<hr class="major" />
 		<div class="content">
 			<h2>Themes for Future Meetings</h2>
-			<p>Here are the themes scheduled for Fall 2026:
-			<p><ul>
-				<li>Saturday, September 12: Air, Wind, and Clouds</li>
-				<li>Saturday, October 10: Time and Seasons</li>
-				<li>Saturday, November 14: Environmental Justice</li>
-				<li>Saturday, December 12: Waste Studies</li>
-			</ul>
-			</p>
+			<p>Themes for 2027 have not yet been decided. Stay tuned!</p>
 	<hr class="major" />
 		<div class="content">
 			<p>Have reading suggestions for upcoming meetings? Send them to us through <a href="https://docs.google.com/forms/d/e/1FAIpQLSeWZ8uFki86WDYFI8gr4wmcK4X_ZUsqtZ2p8j3kDqgTMv2TQQ/viewform?usp=sharing&ouid=114257537123240996432" target="_blank">this form</a>!
